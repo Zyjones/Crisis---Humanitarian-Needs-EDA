@@ -88,7 +88,27 @@ In conclusion, humanitarian funding has grown but struggles to keep pace with es
 
 ### Top Countries in Need and Funding (Jessica L.)
 2. **Which countries have the highest needs and funding levels? Is there a correlation between population in need and funds received?**
+**Which countries had the most people in need?**
+*The top five countries that consistently had a high number of people in need between 2010 and 2024 are: Syria (SYR), Yemen(YEM), Democratic Republic of the Congo (CON), Afghanistan(AFG), and Ethiopia(ETH). These countries appeared in the top ranks across the chosen span of years-showing chronicly severe humanitarian demand.*
 
+**Did they also receive the most funding?**
+*According to the results in Step 5, not all of these countries received the most funding.  SYR and YEM received high funding almost proportional to their needs. ETH and COD, while having substantial needs, did not appear among the top five recipients.*
+
+
+**Is there a pattern over time?**  
+*In the year-to-year comparison, we see the following trend for people in need:*   
+- 2010-2014: number of people in need fluctuated moderately
+- 2015: number of people in need increased significantly
+- 2020-2023: the peak of number of people in need
+
+
+*In the year-to-year comparison, we see the following trend for funding received:*
+- 2018-2019: spikes of funding received are observed
+- 2022-2024: zero reported funding, possibly due to missing data  
+The funding received did not increase consistently to match the need. This suggests that the needs were growing faster than the funding, especially in the later years of observance.
+
+
+In conclusion, this analysis partially supports our hypothesis of more people equate to more funding provided. The correlation coefficient of 0.58 between people in need and funding received suggests a moderate positive relationship. The 0.99 correlation between funding received and funding requirements suggests the requirements are set based on funding capacity. Some higher need countries were underfunded, including a few of the top five countries in need. Thus, there is a need to observe other factors as influences on funding decisions. Recommendation for future exploration would be to investigate other potential factors in underfunded countries, including but not limited to examples- such as: location, political interests, and donor focus.
 
 
 ### Appeal Types and Funding (Zakiyyah)
